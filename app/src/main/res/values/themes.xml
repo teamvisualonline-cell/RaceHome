@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.RaceHome" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#0B3D2E</item>
+        <item name="colorPrimaryVariant">#06261C</item>
+        <item name="colorOnPrimary">#E8FFF6</item>
+        <item name="android:statusBarColor">#06261C</item>
+        <item name="android:navigationBarColor">#06261C</item>
+        <item name="android:windowBackground">#0A1F18</item>
+    </style>
+</resources>
